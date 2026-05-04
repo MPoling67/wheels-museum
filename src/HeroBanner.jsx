@@ -5,7 +5,7 @@ export default function HeroBanner({
   subBody = "Get your free Money Moves brief — a fast AI read on your wow factor, your services, and the revenue opportunity hiding in plain sight.",
   dimLabels = ["About", "Wow Factor", "Services", "Sleeping Giant", "Revenue Moves"],
   heroImage = "/money-moves-hero.png",
-  faviconSrc = "/favicon.png",
+  faviconSrc = "/favicon.svg",
   faviconAlt = "Money Moves Brief",
 }) {
   return (
