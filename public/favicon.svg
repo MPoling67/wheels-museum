@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
-  <!-- rails (crimson horizontal bars) -->
-  <rect x="7" y="16" width="40" height="7" rx="2" fill="#861442"/>
-  <rect x="7" y="31" width="40" height="7" rx="2" fill="#861442"/>
-  <!-- ties (mid-gray, visible on both light and dark) -->
-  <rect x="12" y="10" width="5" height="34" rx="1.5" fill="#5a5a56"/>
-  <rect x="25" y="10" width="5" height="34" rx="1.5" fill="#5a5a56"/>
-  <rect x="37" y="10" width="5" height="34" rx="1.5" fill="#5a5a56"/>
-</svg>
