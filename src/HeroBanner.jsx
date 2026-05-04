@@ -1,12 +1,12 @@
 export default function HeroBanner({
-  titleStrong = "Money Moves",
-  titleEm = "Brief",
-  subHeadline = "Is your website leaving money on the table?",
-  subBody = "Get your free Money Moves brief — a fast AI read on your wow factor, your services, and the revenue opportunity hiding in plain sight.",
-  dimLabels = ["About", "Wow Factor", "Services", "Sleeping Giant", "Revenue Moves"],
-  heroImage = "/money-moves-hero.png",
+  titleStrong = "ABQ Rail",
+  titleEm = "History Quiz",
+  subHeadline = "The road and rail story of Albuquerque.",
+  subBody = "How well do you know ABQ's railroad history? 10 questions spanning 100 years — each answer connects to a real exhibit at WHEELS Museum.",
+  dimLabels = ["Founded 1914", "21,000 Sq Ft", "$0 Admission"],
+  heroImage = "/wheels-museum-hero.jpg",
   faviconSrc = "/favicon.svg",
-  faviconAlt = "Money Moves Brief",
+  faviconAlt = "ABQ Rail History Quiz",
 }) {
   return (
     <>
