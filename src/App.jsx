@@ -275,10 +275,10 @@ export default function App() {
         <HeroBanner
           titleStrong="ABQ Rail"
           titleEm="History Quiz"
-          subHeadline="How well do you know Albuquerque's railroad and Route 66 story?"
-          subBody="10 questions. Each answer connects to a real exhibit at WHEELS Museum."
+          subHeadline="The road and rail story of Albuquerque."
+          subBody="How well do you know ABQ's railroad history? 10 questions spanning 100 years — each answer connects to a real exhibit at WHEELS Museum."
           dimLabels={["Founded 1914", "21,000 Sq Ft", "$0 Admission"]}
-          heroImage="/wheels-museum-hero.png"
+          heroImage="/wheels-museum-hero.jpg"
           faviconSrc="/favicon.svg"
           faviconAlt="ABQ Rail History Quiz"
         />
