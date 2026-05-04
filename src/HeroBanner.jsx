@@ -4,7 +4,7 @@ export default function HeroBanner({
   subHeadline = "The road and rail story of Albuquerque.",
   subBody = "How well do you know ABQ's railroad history? 10 questions spanning 100 years — each answer connects to a real exhibit at WHEELS Museum.",
   dimLabels = ["Founded 1914", "21,000 Sq Ft", "$0 Admission"],
-  heroImage = "/wheels-museum-hero.jpg",
+  heroImage = "/wheels-museum-hero.png",
   faviconSrc = "/favicon.svg",
   faviconAlt = "ABQ Rail History Quiz",
 }) {
