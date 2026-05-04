@@ -278,7 +278,7 @@ export default function App() {
           subHeadline="How well do you know Albuquerque's railroad and Route 66 story?"
           subBody="10 questions. Each answer connects to a real exhibit at WHEELS Museum."
           dimLabels={["Founded 1914", "21,000 Sq Ft", "$0 Admission"]}
-          heroImage="/wheels-museum-hero.jpg"
+          heroImage="/wheels-museum-hero.png"
           faviconSrc="/favicon.svg"
           faviconAlt="ABQ Rail History Quiz"
         />
